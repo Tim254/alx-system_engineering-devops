@@ -1,1 +1,1 @@
-My script reade
+Non empty readme file
